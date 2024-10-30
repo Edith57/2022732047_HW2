@@ -1,1 +1,2 @@
-# 2022732047_HW2
+# 20030507 Suhyun Na
+branch에서 merge됨.
